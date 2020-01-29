@@ -8,5 +8,6 @@ configure do
 end
 
 get '/hey' do
+end
 
 end
