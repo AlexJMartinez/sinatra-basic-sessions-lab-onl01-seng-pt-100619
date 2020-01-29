@@ -13,12 +13,8 @@ class App < Sinatra::Base
 
 
 
-get '/hey' do
-  @session = session
-end
+post '/checkout' dp
 
-post '/checkout'
-@session <<
 
 end
 
