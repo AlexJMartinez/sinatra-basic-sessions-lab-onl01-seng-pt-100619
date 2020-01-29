@@ -13,7 +13,7 @@ class App < Sinatra::Base
 
 
 
-post '/checkout' dp
+post '/checkout' do
 
 
 end
