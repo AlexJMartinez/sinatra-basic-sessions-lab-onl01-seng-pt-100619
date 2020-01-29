@@ -15,4 +15,6 @@ get '/hey' do
   @session = session
 end
 
+post '/checkout'
+
 end
