@@ -8,6 +8,7 @@ configure do
 end
 
 get '/hey' do
+  @session = session
 end
 
 end
